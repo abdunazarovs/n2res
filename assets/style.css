@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+*{
+    box-sizing: border-box;
+    font-family: "Bitter","Montserrat";
+}
+.container
+{
+    max-width: 1440px;
+    padding: 20px;
+}
+
+header{
+
+padding: 20px;
+}
+
+.crnavbar{
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.crright{
+    display: flex;
+    gap:40px;
+
+}
+.ctitles{
+    padding: 20px;
+    font-family: "Bitter";
+    font-weight: 400;
+    font-size: 14px;
+    color:rgba(50, 46, 41, 1);
+}
