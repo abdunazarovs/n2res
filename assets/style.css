@@ -58,3 +58,9 @@ padding: 20px;
     -ms-border-radius: 12px;
     -o-border-radius: 12px;
 }
+
+#intro{
+    padding: 20px;
+    margin-top: 80px;
+    background-image: url("/assets/images/samsommer-vddccTqwal8-unsplash\ 1\ \(1\).png");
+}
