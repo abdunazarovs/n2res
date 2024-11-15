@@ -158,3 +158,41 @@ padding: 20px;
     font-weight: 400;
     
 }
+
+#card{
+    margin-top:80px;
+    margin-left:20px;
+}
+.all{
+    display: block;
+}
+.first{
+    
+    margin-left:280px;
+    width: 342px;
+    h1{
+        font-weight: 400;
+        font-size: 13px;
+        font-style: italic;
+        font-family: "Bitter";
+        color:rgba(211, 165, 98, 1);
+    }
+    h4{ 
+        font-family: "Montserrat";
+        font-size: 24px;
+        font-weight: 600;
+        color:rgba(0, 0, 0, 1);
+    }
+    h5{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(50, 46, 41, 1);
+    }
+    
+}
+
+.firsthr{
+    border:1px solid rgba(211, 165, 98, 1);
+   
+}
